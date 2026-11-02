@@ -29,3 +29,23 @@ html{overflow-x:clip}
 @media(max-width:800px){.inspiration-reading,.influence-grid,.direction-feature,.tee-direction,.impact-opening,.impact-data,.investigation-section,.impact-map-section,.recovery-layout,.impact-accountability{grid-template-columns:minmax(0,1fr);gap:40px}.inspiration-board .board-note{grid-column:span 2}.direction-feature{margin-top:40px}.direction-pair img{height:350px}.direction-pair figure:nth-child(2){margin-top:35px}.hood-construction{padding:12px;margin-top:45px}.tee-direction{margin-top:70px}.tee-direction>figure{max-width:450px}.influence-profile figure img{height:390px}.influence-profile h3{font-size:43px}.influence-profile{margin-bottom:30px}.impact-intro h1{font-size:clamp(48px,11.5vw,85px)}.impact-opening img{height:auto;aspect-ratio:1.4;object-fit:cover}.import-chart{padding:20px 15px}.import-row{grid-template-columns:38px minmax(0,1fr) 65px;gap:7px;font-size:10px}.import-chart h3{font-size:40px}.import-track{height:24px}.import-chart table{font-size:10px}.impact-accountability h2{grid-row:auto}.impact-accountability .text-link{margin-top:0}.recovery-layout figure{position:static;max-width:420px}.recovery-layout article{padding-left:45px}.recovery-layout .text-link{margin-left:0}.gallery .image-button img{height:410px}.project-hero:has(img[src*="atir-"]) img{height:520px}.inspiration-reading h2{font-size:46px}.impact-map-section .image-button:hover{transform:none}}
 @media(max-width:420px){.direction-pair{gap:10px}.direction-pair img{height:270px}.direction-feature figcaption{font-size:9px}.influence-profile figure img{height:330px}.gallery .image-button img{height:360px}}
 .collection-chapter#atir .chapter-image img{object-fit:contain;aspect-ratio:.85}
+/* Larger soundtrack button */
+.flying-play {
+  width: 120px;
+  height: 120px;
+  padding: 12px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  left: auto;
+  right: 5%;
+}
+
+.flying-play small {
+  font-size: 16px;
+  line-height: 1.15;
+  text-align: center;
+}
