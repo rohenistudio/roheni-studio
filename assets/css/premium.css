@@ -76,3 +76,17 @@ html{overflow-x:clip}
 .impact-map-section .image-button:hover {
   transform: none;
 }
+
+/* November media additions */
+.event-film{margin:35px 0 0;max-width:350px}.event-film video{display:block;width:100%;height:auto;aspect-ratio:9/16;border-radius:12px;background:#222}.event-film figcaption,.kowloon-pair figcaption{font:12px/1.6 var(--sans);margin-top:12px;color:var(--quiet)}
+.kowloon-direction{display:grid;grid-template-columns:1fr 1.2fr;gap:6vw;align-items:center}.kowloon-direction h2{font-size:clamp(42px,5vw,76px);margin:20px 0}.kowloon-direction p+p{margin-top:22px}.kowloon-pair{display:grid;grid-template-columns:1fr 1fr;gap:16px}.kowloon-pair figure{margin:0;min-width:0}.kowloon-pair img{display:block;width:100%;height:auto}.soundtrack-status{position:absolute;right:4%;top:310px;max-width:180px;font:12px var(--sans)}.soundtrack-playing{box-shadow:0 0 0 5px #ffffff25}
+.impact-map-section .image-button{padding:0;background:transparent}.impact-map-section .image-button img{display:block;width:100%;height:auto;aspect-ratio:auto}.impact-map-section .image-button:hover{transform:none}
+@media(max-width:800px){.kowloon-direction{grid-template-columns:minmax(0,1fr);gap:35px}.event-film{max-width:300px;margin:25px auto 0}.kowloon-pair{gap:10px}}
+
+/* Floating Alexa player: motion remains separate from audio playback. */
+.soundtrack-panel{position:absolute;right:3%;top:330px;z-index:9;width:190px;padding:13px 14px;border:1px solid var(--line);border-radius:15px;background:var(--paper);color:var(--ink);box-shadow:3px 4px 0 #0001;font:12px/1.4 var(--sans)}
+.soundtrack-track{display:flex;align-items:center;gap:10px}.soundtrack-track strong{display:block;font-size:14px}.soundtrack-track small{display:block;font-size:10px}.soundtrack-equaliser{display:flex;align-items:center;gap:3px;height:22px;min-width:25px}.soundtrack-equaliser i{display:block;width:3px;height:5px;background:currentColor;border-radius:2px;transform-origin:center}.is-playing .soundtrack-equaliser i{animation:roheni-equalise .75s ease-in-out infinite alternate}.is-playing .soundtrack-equaliser i:nth-child(2){animation-delay:-.3s}.is-playing .soundtrack-equaliser i:nth-child(3){animation-delay:-.6s}.is-playing .soundtrack-equaliser i:nth-child(4){animation-delay:-.15s}.soundtrack-volume{display:grid;grid-template-columns:auto minmax(0,1fr) 30px;align-items:center;gap:7px;margin-top:10px;font-size:10px}.soundtrack-volume input{width:100%;min-width:0;accent-color:#7a0000;cursor:pointer}.soundtrack-volume output{text-align:right}.soundtrack-feedback:empty{display:none}.soundtrack-feedback{display:block;margin-top:8px}.soundtrack-panel input:focus-visible{outline:2px solid currentColor;outline-offset:4px}
+@keyframes roheni-equalise{from{height:5px}to{height:22px}}
+@media(max-width:800px){.soundtrack-panel{top:350px;right:3%;width:165px;padding:10px}.soundtrack-track small{font-size:9px}}
+@media(prefers-reduced-motion:reduce){.is-playing .soundtrack-equaliser i{animation:none;height:14px}}
+.motion-paused .soundtrack-equaliser i{animation-play-state:paused}

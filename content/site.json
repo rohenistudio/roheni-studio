@@ -105,6 +105,10 @@
         {
           "image": "process-making",
           "caption": "Making in progress, from the studio."
+        },
+        {
+          "image": "herd-anto",
+          "caption": "The Herd / brown leather and cowhide campaign photograph, supplied as Anto Front 7."
         }
       ]
     },
@@ -183,6 +187,18 @@
         {
           "image": "women-set-alt",
           "caption": "A second view of the top and skirt, with their proportions visible."
+        },
+        {
+          "image": "adwoa-wanja",
+          "caption": "Adwoa / Wanja, campaign portrait."
+        },
+        {
+          "image": "adwoa-bobo",
+          "caption": "Adwoa / Bobo, full look."
+        },
+        {
+          "image": "adwoa-muthee",
+          "caption": "Adwoa / Muthee, styled with a Herd jacket."
         }
       ]
     },
@@ -333,6 +349,16 @@
       "image": "collection002-tee",
       "type": "Product direction",
       "caption": "Collection 002 / premium recycled T-shirt and label presentation. Supplied development mockup; final fibre composition and recycled-content percentage remain to be confirmed."
+    },
+    {
+      "image": "kowloon-male-concept",
+      "type": "Digital concept",
+      "caption": "Kowloon pants / male styling concept. Digital development image; not a photographed production sample."
+    },
+    {
+      "image": "kowloon-female-concept",
+      "type": "Digital concept",
+      "caption": "Kowloon pants / female styling concept. Digital development image; not a photographed production sample."
     }
   ],
   "process": [
