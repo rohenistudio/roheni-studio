@@ -15,19 +15,19 @@
       "year": "2024–2025",
       "image": "denim-campaign",
       "alt": "Models wearing contrasting patchwork denim jackets from the supplied ROHENI portfolio",
-      "intro": "Denim remembers. Its faded blues, worn seams and softened surfaces carry traces of the people who wore it before. Kaleidoscope brings those differences into a new composition.",
+      "intro": "A pale wash beside a deep indigo. A red panel cutting through familiar blue. Kaleidoscope began with the pleasure of putting those differences together. Discarded denim and factory cutoffs become jackets whose patchwork is meant to be seen, rather than hidden behind a uniform finish.",
       "sections": [
         {
-          "title": "A material with a past",
-          "text": "We work with discarded denim and factory offcuts, looking closely at their colour, texture and remaining potential. Each piece of material changes the possibilities of the garment."
+          "title": "Working with what turns up",
+          "text": "Recovered denim does not arrive as a perfectly matched roll. There are shifts in colour, wear and thickness. We look for pieces with enough life left in them, then work out how their differences can sit together. A faded section can soften a dark one; a contrasting pocket can change the whole front of a jacket."
         },
         {
-          "title": "Working through contrast",
-          "text": "Patch placement, proportion and silhouette give the fragments a relationship. The original material stays visible, becoming part of what makes the finished jacket individual."
+          "title": "Patchwork as a design decision",
+          "text": "We want the eye to travel around the garment. Panels cross the body, colours meet at unexpected points and the back deserves as much attention as the front. The result should feel composed, even when the material supply is irregular. Cutting and stitching are where that balance has to become real."
         },
         {
-          "title": "What comes next",
-          "text": "The next collection explores curved panels, irregular pockets and more precise fit. Sampling helps us understand where an expressive design also needs a clearer construction brief."
+          "title": "Made here, with a longer life in mind",
+          "text": "Kaleidoscope connects our love of expressive dressing with the skill of Kenyan makers. Its purpose is to show that an overlooked material can become a piece someone chooses, wears and keeps. The first collection established the patchwork direction; Collection 002 develops it through curved panels, new pockets and a clearer approach to fit."
         }
       ],
       "gallery": [
@@ -66,19 +66,19 @@
       "year": "2024–2025",
       "image": "herd-campaign",
       "alt": "ROHENI cowhide and leather jackets shown on models",
-      "intro": "The Herd begins with the physical presence of cowhide and leather. Markings, texture and variation guide how a piece takes shape. Each jacket belongs to the same world, while carrying its own character.",
+      "intro": "We love cowhide for the things a repeat print cannot quite reproduce: the change in hair direction, a dark patch meeting cream, a marking that refuses to land symmetrically. In The Herd, those differences sit alongside leather to give each jacket its own face.",
       "sections": [
         {
-          "title": "Following the material",
-          "text": "Working with irregular markings means making decisions about where a surface belongs and how it changes the balance of a garment. The material becomes part of the design process."
+          "title": "Let the markings lead",
+          "text": "Before a panel is cut, we look at where a marking will fall. A pale area can open up the front of a jacket; a dense dark patch can anchor a shoulder. Leather gives those surfaces a quieter neighbour. The contrast between smooth leather and hair-on hide is part of what makes the pieces feel so physical."
         },
         {
-          "title": "Clothing with presence",
-          "text": "These are pieces for people who want to express themselves through what they wear. Construction and proportion give their strong textures a wearable form."
+          "title": "A family of individual pieces",
+          "text": "The Herd is not about making every jacket look exactly the same. Shared shapes and construction connect the pieces, while the available hide changes their character. That is the appeal: a recognisable ROHENI jacket with a surface that belongs to that particular garment."
         },
         {
-          "title": "Sourcing with care",
-          "text": "ROHENI sources factory cutoffs and waste materials. The source of each featured hide and leather panel should be recorded individually as our material documentation develops."
+          "title": "Respect begins before the first cut",
+          "text": "Because these are animal-derived materials, source and use matter. We work with available cutoffs and overlooked stock, choose panel positions carefully and look for uses for smaller pieces. Recovered material does not make a garment impact-free; keeping clear sourcing records and making well are part of the responsibility."
         }
       ],
       "gallery": [
@@ -109,6 +109,49 @@
       ]
     },
     {
+      "id": "atir",
+      "title": "AtIr",
+      "subtitle": "Cut away. Still connected.",
+      "category": "Women’s two-piece set",
+      "stage": "Collection I",
+      "year": "2024–2025",
+      "image": "atir-orange-front",
+      "alt": "AtIr black two-piece women’s set with asymmetric cutouts, buckle details and flared sleeves, photographed against orange",
+      "intro": "AtIr brings a sharper, more sculptural mood to our first collection. A black top and short skirt are held in conversation by sweeping cutouts, buckle details and long, flared sleeves. The spaces between the fabric matter as much as the fabric itself.",
+      "sections": [
+        {
+          "title": "The shape of confidence",
+          "text": "The top moves diagonally across the body rather than following a straight line. Its openings expose the construction and interrupt the dark surface; the wide sleeves add volume around a closely shaped waist. The skirt continues that angled movement, giving the two pieces a clear relationship without making them identical."
+        },
+        {
+          "title": "African artistry, in the present tense",
+          "text": "For us, African artistry includes the freedom of Kenyan makers to experiment. It is in a difficult cut worked through, a fastening placed with care and a familiar fabric made to feel unexpected. AtIr belongs to that living creative practice: made here, expressive on its own terms, ready to be worn wherever its owner takes it."
+        },
+        {
+          "title": "Keeping the material in the story",
+          "text": "Across ROHENI, we work with factory cutoffs and overlooked materials. AtIr carries the same design intention: make the garment desirable, then let that desire open a conversation about what we choose to value. Its cutouts also remind us that thoughtful cutting must include a plan for the pieces left on the table."
+        }
+      ],
+      "gallery": [
+        {
+          "image": "atir-orange-front",
+          "caption": "AtIr / the complete top-and-skirt look, photographed against orange."
+        },
+        {
+          "image": "atir-orange-profile",
+          "caption": "AtIr / angled styling shows the sleeves, waist fastening and skirt opening."
+        },
+        {
+          "image": "atir-studio-profile",
+          "caption": "AtIr / a studio profile of the first-collection set."
+        },
+        {
+          "image": "atir-three-views",
+          "caption": "AtIr / supplied three-view campaign composite."
+        }
+      ]
+    },
+    {
       "id": "adwoa",
       "title": "Adwoa",
       "subtitle": "A set with a presence of its own.",
@@ -117,15 +160,19 @@
       "year": "2024–2025",
       "image": "women-set",
       "alt": "A model wearing the Adwoa top and skirt set from ROHENI’s first collection",
-      "intro": "Adwoa brings another expression to the first collection through a coordinated top and skirt. Cutouts, contrasting surfaces and the relationship between the pieces shape the look.",
+      "intro": "Adwoa is the more compact expression of our women’s sets: a coordinated top and skirt, dark surfaces, cutouts and a silhouette that leaves space for the wearer’s own styling. It sits beside AtIr in Collection I, with a different balance of volume and exposure.",
       "sections": [
         {
-          "title": "Two pieces, one conversation",
-          "text": "A set lets us explore how a top and skirt work together through shape, proportion and styling. Each piece also gives the wearer room to make the look their own."
+          "title": "The relationship between two pieces",
+          "text": "A set asks us to think beyond a single garment. The position of an opening on the top changes how the waist reads; the length of the skirt changes the proportion of the whole look. Adwoa is built around that relationship, while leaving each piece free to be worn separately."
         },
         {
-          "title": "A wider expression",
-          "text": "The women’s sets broaden the ROHENI world beyond its signature jackets, keeping individuality and African creativity at the centre."
+          "title": "Clothes as self-expression",
+          "text": "We are interested in how someone makes a garment their own: with boots, a bag, a jacket, or the confidence to keep the styling spare. Adwoa expands the first collection beyond outerwear without losing ROHENI’s appetite for contrast and a visible point of view."
+        },
+        {
+          "title": "The same material questions",
+          "text": "The women’s sets belong to the same studio practice as the patchwork jackets. We ask what an available material can do, which details will make the piece worth keeping and how Kenyan making can be recognised in the finished work. Material choices and construction have to support the look, rather than sit outside its story."
         }
       ],
       "gallery": [
@@ -148,15 +195,15 @@
       "year": "2024–2025",
       "image": "bag",
       "alt": "A cowhide bag from ROHENI’s supplied accessory images",
-      "intro": "Bags and accessories extend the collection’s material language into everyday objects. Their scale opens further possibilities for working with smaller pieces and remnants.",
+      "intro": "After a jacket is cut, smaller pieces remain. Accessories give us another scale to work at: a striking cowhide marking can become the centre of a bag, while a quiet leather edge frames it. These are everyday objects with the same appetite for texture as the clothes.",
       "sections": [
         {
-          "title": "Looking at what remains",
-          "text": "A smaller piece can invite another idea. We explore how remnants and contrasting surfaces can become useful objects with the same character as the clothing."
+          "title": "Small pieces still deserve a good idea",
+          "text": "A remnant is not automatically a useful product. It still needs a shape, a fastening and a reason to be carried. We look for ways that smaller surfaces can hold their own, balancing expressive markings with the practical demands of a bag or clutch."
         },
         {
-          "title": "A tangible connection",
-          "text": "For local customers and visitors discovering Kenyan creativity, an accessory offers a way to carry the work into everyday life. Material sources and maker credits will be documented individually."
+          "title": "Something of Nairobi to take with you",
+          "text": "We want local customers and visitors to encounter African artistry through objects they can use. An accessory offers a small, tangible connection to the studio and the people making here. Its value should be felt in the handling and finishing as much as in the photograph."
         }
       ],
       "gallery": [
@@ -199,44 +246,89 @@
   ],
   "development": [
     {
-      "image": "concept-denim",
+      "image": "concept-denim-seamless",
       "type": "Digital concept",
-      "caption": "Patchwork denim silhouette and colour exploration. AI-assisted visualisation; not a finished garment."
+      "caption": "Patchwork denim silhouette and colour exploration. AI-assisted visualisation; not a finished garment. Background removed for presentation."
     },
     {
-      "image": "concept-denim-study",
+      "image": "concept-denim-study-1",
       "type": "Design study",
-      "caption": "Sketch-style exploration of panel arrangements. AI-assisted design study, not a hand-drawn original."
+      "caption": "Denim panel study 1. AI-assisted concept; digitally added hanger, not a finished garment."
     },
     {
-      "image": "concept-herd-front",
-      "type": "Digital concept",
-      "caption": "Cowhide jacket front view. AI-assisted visualisation; garment not yet produced."
-    },
-    {
-      "image": "concept-herd-back",
-      "type": "Digital concept",
-      "caption": "Cowhide jacket back view. AI-assisted visualisation; garment not yet produced."
-    },
-    {
-      "image": "concept-herd-study",
+      "image": "concept-denim-study-2",
       "type": "Design study",
-      "caption": "Three-view cowhide jacket study. AI-assisted design study."
+      "caption": "Denim panel study 2. AI-assisted concept; digitally added hanger, not a finished garment."
     },
     {
-      "image": "concept-herd-female",
-      "type": "Digital concept",
-      "caption": "Proportion study shown on a female model. AI-assisted visualisation."
+      "image": "concept-denim-study-3",
+      "type": "Design study",
+      "caption": "Denim panel study 3. AI-assisted concept; digitally added hanger, not a finished garment."
     },
     {
-      "image": "concept-herd-female-back",
-      "type": "Digital concept",
-      "caption": "Back view of the same proposed direction. AI-assisted visualisation."
+      "image": "concept-denim-study-4",
+      "type": "Design study",
+      "caption": "Denim panel study 4. AI-assisted concept; digitally added hanger, not a finished garment."
     },
     {
-      "image": "concept-atir",
+      "image": "concept-denim-study-5",
+      "type": "Design study",
+      "caption": "Denim panel study 5. AI-assisted concept; digitally added hanger, not a finished garment."
+    },
+    {
+      "image": "concept-herd-front-seamless",
       "type": "Digital concept",
-      "caption": "Atir set direction supplied with Collection II. AI-assisted concept; final construction remains in development."
+      "caption": "Cowhide jacket front view. AI-assisted visualisation; garment not yet produced. Background removed for presentation."
+    },
+    {
+      "image": "concept-herd-back-seamless",
+      "type": "Digital concept",
+      "caption": "Cowhide jacket back view. AI-assisted visualisation; garment not yet produced. Background removed for presentation. Model removed; hanger digitally added."
+    },
+    {
+      "image": "concept-herd-study-1",
+      "type": "Design study",
+      "caption": "Cowhide front study. AI-assisted concept; digitally added hanger, not a finished garment."
+    },
+    {
+      "image": "concept-herd-study-2",
+      "type": "Design study",
+      "caption": "Cowhide back study. AI-assisted concept; digitally added hanger, not a finished garment."
+    },
+    {
+      "image": "concept-herd-study-3",
+      "type": "Design study",
+      "caption": "Cowhide side study. AI-assisted concept; digitally added hanger, not a finished garment."
+    },
+    {
+      "image": "concept-herd-female-seamless",
+      "type": "Digital concept",
+      "caption": "Proportion study shown on a female model. AI-assisted visualisation. Background removed for presentation."
+    },
+    {
+      "image": "concept-herd-female-back-seamless",
+      "type": "Digital concept",
+      "caption": "Back view of the same proposed direction. AI-assisted visualisation. Background removed for presentation. Model removed; hanger digitally added."
+    },
+    {
+      "image": "hoodie-full-concept",
+      "type": "Digital concept",
+      "caption": "Collection 002 / patchwork hoodie, full styling concept. AI-assisted visualisation; not a photographed production sample."
+    },
+    {
+      "image": "hoodie-detail-concept",
+      "type": "Digital concept",
+      "caption": "Collection 002 / curved colour-blocking and hood proportions. AI-assisted digital concept."
+    },
+    {
+      "image": "hoodie-construction",
+      "type": "Construction study",
+      "caption": "Collection 002 / hood construction diagram. Two mirrored halves, centre crown seam and a proposed 6 cm front overlap for sampling."
+    },
+    {
+      "image": "collection002-tee",
+      "type": "Product direction",
+      "caption": "Collection 002 / premium recycled T-shirt and label presentation. Supplied development mockup; final fibre composition and recycled-content percentage remain to be confirmed."
     }
   ],
   "process": [
@@ -264,5 +356,38 @@
       "image": "process-stitching",
       "caption": "A closer view of stitching and construction in progress."
     }
-  ]
+  ],
+  "impact": {
+    "source": "https://www.knbs.or.ke/wp-content/uploads/2026/04/2026-Economic-Survey.pdf",
+    "table": "6.6",
+    "unit": "tonnes",
+    "national_not_city": true,
+    "series": [
+      {
+        "year": 2021,
+        "tonnes": 183830.1,
+        "provisional": false
+      },
+      {
+        "year": 2022,
+        "tonnes": 177664.4,
+        "provisional": false
+      },
+      {
+        "year": 2023,
+        "tonnes": 198083.5,
+        "provisional": false
+      },
+      {
+        "year": 2024,
+        "tonnes": 230535.3,
+        "provisional": false
+      },
+      {
+        "year": 2025,
+        "tonnes": 250527.3,
+        "provisional": true
+      }
+    ]
+  }
 }
