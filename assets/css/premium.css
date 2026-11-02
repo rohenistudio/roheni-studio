@@ -90,3 +90,23 @@ html{overflow-x:clip}
 @media(max-width:800px){.soundtrack-panel{top:350px;right:3%;width:165px;padding:10px}.soundtrack-track small{font-size:9px}}
 @media(prefers-reduced-motion:reduce){.is-playing .soundtrack-equaliser i{animation:none;height:14px}}
 .motion-paused .soundtrack-equaliser i{animation-play-state:paused}
+/* Music controls in the upper-right space */
+.hero-stage > .soundtrack-panel {
+  position: absolute;
+  top: 45px;
+  right: 2%;
+  bottom: auto;
+  left: auto;
+  width: 190px;
+  margin: 0;
+  transform: none;
+  box-sizing: border-box;
+}
+
+@media (max-width: 800px) {
+  .hero-stage > .soundtrack-panel {
+    top: 85px;
+    right: 2%;
+    width: 165px;
+  }
+}
