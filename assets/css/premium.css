@@ -49,3 +49,14 @@ html{overflow-x:clip}
   line-height: 1.15;
   text-align: center;
 }
+@media (max-width: 800px) {
+  .flying-play {
+    width: 105px;
+    height: 105px;
+    right: 4%;
+  }
+
+  .flying-play small {
+    font-size: 14px;
+  }
+}
