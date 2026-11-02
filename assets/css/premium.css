@@ -60,3 +60,19 @@ html{overflow-x:clip}
     font-size: 14px;
   }
 }
+/* Show the map in its original proportions */
+.impact-map-section .image-button {
+  padding: 0;
+  background: transparent;
+}
+
+.impact-map-section .image-button img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+}
+
+.impact-map-section .image-button:hover {
+  transform: none;
+}
