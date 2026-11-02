@@ -29,3 +29,35 @@ body,header{background:var(--paper);color:var(--ink);transition:background-color
 .ticker:before{content:'';position:absolute;inset:0;background:url('../images/studio-banner-texture.png') center/cover;opacity:.23;z-index:-1;pointer-events:none}.handnote{top:255px;bottom:auto;left:4%}@media(max-width:800px){.handnote{top:220px;bottom:auto;left:3%;font-size:16px}}
 .collection-chapter>*{min-width:0}@media(max-width:800px){.collection-chapter,.collection-chapter:nth-child(odd){grid-template-columns:minmax(0,1fr)}.chapter-copy h2{font-size:clamp(38px,11.2vw,65px)}.chapter-copy p{overflow-wrap:break-word}.milestone{min-width:0}.milestone h3{overflow-wrap:break-word}}
 body{overflow-x:clip}
+/* Larger soundtrack button */
+.flying-play {
+  width: 120px;
+  height: 120px;
+  padding: 12px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 5px;
+  left: auto;
+  right: 5%;
+}
+
+.flying-play small {
+  font-size: 16px;
+  line-height: 1.15;
+  text-align: center;
+}
+
+@media (max-width: 800px) {
+  .flying-play {
+    width: 105px;
+    height: 105px;
+    right: 4%;
+  }
+
+  .flying-play small {
+    font-size: 14px;
+  }
+}
