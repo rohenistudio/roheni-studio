@@ -110,3 +110,37 @@ html{overflow-x:clip}
     width: 165px;
   }
 }
+/* Smaller music controls, below the headline */
+.hero-stage > .soundtrack-panel {
+  top: 260px;
+  right: 2%;
+  width: 155px;
+  padding: 9px 10px;
+  border-radius: 12px;
+}
+
+.soundtrack-track {
+  gap: 6px;
+}
+
+.soundtrack-track strong {
+  font-size: 12px;
+}
+
+.soundtrack-track small {
+  font-size: 9px;
+}
+
+.soundtrack-volume {
+  margin-top: 6px;
+  gap: 4px;
+  font-size: 9px;
+}
+
+@media (max-width: 800px) {
+  .hero-stage > .soundtrack-panel {
+    top: 220px;
+    right: 2%;
+    width: 145px;
+  }
+}
