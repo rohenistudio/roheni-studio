@@ -54,7 +54,7 @@ loading="lazy">
 
 <h3>Already made.<br>Still <em>unexpected.</em></h3>
 
-<p>What draws us to Wisdom Kaye is his willingness to try the combination you might have dismissed. The layers, the proportions, the textures—you want to look again.</p>
+<p>What draws us to Wisdom Kaye is his willingness to try the combination you might have dismissed. The layers, the proportions, the textures, you want to look again.</p>
 
 <p>His styling for eBay’s Endless Runway brings that curiosity to pre-loved clothing. At ROHENI, we take that spirit into making: opening up discarded garments, working with the usable fabric and finding combinations worth wearing.</p>
 
