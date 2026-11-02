@@ -144,3 +144,18 @@ html{overflow-x:clip}
     width: 145px;
   }
 }
+/* Compact player beside the star */
+.hero-stage > .soundtrack-panel {
+  top: 140px;
+  right: 0;
+  width: 145px;
+  padding: 9px;
+}
+
+@media (max-width: 800px) {
+  .hero-stage > .soundtrack-panel {
+    top: 140px;
+    right: 0;
+    width: 135px;
+  }
+}
