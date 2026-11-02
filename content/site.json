@@ -115,8 +115,8 @@
       "category": "Women’s two-piece set",
       "stage": "Collection I",
       "year": "2024–2025",
-      "image": "atir-orange-front",
-      "alt": "AtIr black two-piece women’s set with asymmetric cutouts, buckle details and flared sleeves, photographed against orange",
+      "image": "atir-three-views",
+      "alt": "Three views of the AtIr black two-piece set with cutouts, buckle details and flared sleeves",
       "intro": "AtIr brings a sharper, more sculptural mood to our first collection. A black top and short skirt are held in conversation by sweeping cutouts, buckle details and long, flared sleeves. The spaces between the fabric matter as much as the fabric itself.",
       "sections": [
         {
@@ -193,8 +193,8 @@
       "category": "Bags and accessories",
       "stage": "Collection I",
       "year": "2024–2025",
-      "image": "bag",
-      "alt": "A cowhide bag from ROHENI’s supplied accessory images",
+      "image": "accessories-new-bag",
+      "alt": "Brown, black and white cowhide shoulder bag with an adjustable dark leather strap",
       "intro": "After a jacket is cut, smaller pieces remain. Accessories give us another scale to work at: a striking cowhide marking can become the centre of a bag, while a quiet leather edge frames it. These are everyday objects with the same appetite for texture as the clothes.",
       "sections": [
         {
@@ -207,6 +207,10 @@
         }
       ],
       "gallery": [
+        {
+          "image": "accessories-new-bag",
+          "caption": "Cowhide shoulder bag with contrasting natural markings and an adjustable leather strap."
+        },
         {
           "image": "bag",
           "caption": "Cowhide texture shaped into a carry bag."
