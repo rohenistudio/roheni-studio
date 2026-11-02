@@ -1,0 +1,107 @@
+[
+  {
+    "source": "DSC08394.jpeg",
+    "output": "assets/images/atir-orange-front.webp",
+    "width": 1638,
+    "height": 2048,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "DSC08402.JPEG",
+    "output": "assets/images/atir-orange-profile.webp",
+    "width": 1638,
+    "height": 2048,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "IMG_8381.PNG",
+    "output": "assets/images/atir-studio-profile.webp",
+    "width": 1024,
+    "height": 1536,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "IMG_8377.PNG",
+    "output": "assets/images/atir-three-views.webp",
+    "width": 1254,
+    "height": 1254,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "3BE93283-F165-462A-AC8C-08D455404F52.PNG",
+    "output": "assets/images/collection002-tee.webp",
+    "width": 1122,
+    "height": 1402,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "tornjacket(1).jpg",
+    "output": "assets/images/impact-worn-jacket.webp",
+    "width": 650,
+    "height": 1035,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "gikomba3(1).jpg",
+    "output": "assets/images/impact-river.webp",
+    "width": 1201,
+    "height": 878,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "gikombamap2(1).jpg",
+    "output": "assets/images/impact-waste-site.webp",
+    "width": 1199,
+    "height": 800,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "gikombamap(1).png",
+    "output": "assets/images/impact-gikomba-map.webp",
+    "width": 1250,
+    "height": 918,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "ROHENI ORIGINALS (1)(1).png",
+    "output": "assets/images/inspiration-hide-source.webp",
+    "width": 1153,
+    "height": 864,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "virgil abloh.webp",
+    "output": "assets/images/inspiration-virgil.webp",
+    "width": 1024,
+    "height": 573,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "image(20261102-081735).png",
+    "output": "assets/images/inspiration-kanye.webp",
+    "width": 1697,
+    "height": 2048,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "image(20261102-081943).png",
+    "output": "assets/images/hoodie-construction.webp",
+    "width": 1002,
+    "height": 443,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "image(20261102-082043).png",
+    "output": "assets/images/hoodie-full-concept.webp",
+    "width": 443,
+    "height": 658,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  },
+  {
+    "source": "image(20261102-082118).png",
+    "output": "assets/images/hoodie-detail-concept.webp",
+    "width": 497,
+    "height": 609,
+    "treatment": "EXIF orientation and WebP export; no synthetic enhancement or enlargement"
+  }
+]

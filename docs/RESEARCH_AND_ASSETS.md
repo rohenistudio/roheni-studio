@@ -1,3 +1,5 @@
+> Current November revision: see NOVEMBER_UPDATE.md. Earlier entries below describe historical asset and layout decisions; AtIr is now completed Collection 001 work.
+
 # Research, sources and asset treatment
 
 ## Font review
@@ -56,3 +58,25 @@ assets/video/material-study.mp4: 960 × 720, H.264, 24 fps, 9 seconds, no sound,
 ## Release
 
 11 HTML entry files, 4 collection projects. New routes: inspiration.html and mission.html. Contact: rohenioriginals@gmail.com. This edition has not been uploaded to GitHub or deployed from this workspace. Use the existing repository and preserve the current Pages publishing settings.
+
+
+## October 2026 carousel and research update
+
+About now includes nine campaign/archive slides, starting with the original Collection I campaign. Autoplay is 5.5 seconds; pauses on hover, keyboard focus, hidden tab, offscreen state, global pause, reduced motion, or the carousel’s own pause button. Buttons, swipe and arrow keys are supported. Uploaded photographs were EXIF-oriented and exported at WebP quality 94 without enlargement. No blanket 100% quality or lighting claim is made. The 225×225 jeans photograph was excluded from large-format display. The torn-jacket image and supplied map/dumpsite reference were not necessary for this edit and are not presented as verified documentary evidence. Confirm source credits for supplied third-party references before publication.
+
+The Gikomba river reference replaces the older material-pile image. Its caption says studio-supplied reference; the location, photographer and capture date have not been independently established. No synthetic enhancement was applied to documentary context imagery.
+
+### Evidence and dates
+- Business Daily, Constant Munda, 8 July 2024: https://www.businessdailyafrica.com/bd/economy/value-of-used-clothes-imports-jumps-to-sh28bn-4683176 — 206,580 tonnes in the year ending March 2024, reporting KNBS data. Import volume is not waste volume.
+- Changing Markets, February 2023: https://changingmarkets.org/report/trashion-the-stealth-export-of-waste-plastic-clothes-to-kenya/ — interviewed traders reported 20–50% unsellable contents in purchased bales. Not an official national waste-rate measurement. The report documents dumped low-grade clothing near the Nairobi River and clothing used as fuel.
+
+### Cultural portraits
+Portrait images are hosted remotely by Wikimedia’s thumbnail service and were verified loading in the browser. They therefore need an internet connection and may be affected by host availability. The browser’s download helper did not produce usable local portrait files; no substitute likeness was fabricated.
+- Virgil Abloh at Columbia GSAPP (2017), GSAPPstudent, CC BY-SA 4.0: https://commons.wikimedia.org/wiki/File:Virgil_Abloh_at_Columbia_GSAPP.jpg. CSS crop and grayscale presentation. Licence: https://creativecommons.org/licenses/by-sa/4.0/. Adapted display of this portrait remains under CC BY-SA 4.0; this does not relicense the rest of ROHENI’s assets.
+- Kanye West Shankbone 2009 Vanity Fair, David Shankbone, CC BY 3.0: https://commons.wikimedia.org/wiki/File:Kanye_West_Shankbone_2009_Vanity_Fair.jpg. CSS crop and grayscale presentation. Licence: https://creativecommons.org/licenses/by/3.0/.
+- Career links: High Museum, Figures of Speech https://high.org/exhibition/virgil-abloh-figures-of-speech/?ver=2.0.5; GQ, Jake Woolf, 11 February 2016 https://www.gq.com/gallery/the-unabridged-history-of-kanye-west-as-fashion-designerand-the-11-year-road-to-todays-adidas-show. Cultural references are not endorsements or collaborations.
+
+### Collection II isolated concepts
+Built-in image editing was used to remove backgrounds from seven existing AI-assisted concept images. Rear views remove the model and add a presentation hanger. The two study sheets were split into five denim and three cowhide individual crops; these are all digital concepts, not photographs of produced stock. Minor generated presentation details may differ; compare original files before production decisions. Atir remains unchanged with a CSS grey tonal treatment because the image-editing service rejected that extraction. No alternative processing was used to evade that rejection.
+
+Prompt set: background-extraction; preserve garment design, cream/white fabric, panel position, texture and silhouette; keep model identities/poses on front views; remove the model and add a narrow dark hanger on rear views; remove paper/text from study sheets and add individual hangers; true transparent alpha, no backdrop or invented lettering. Originals retained. Final concept assets: assets/images/*-seamless.webp, concept-*-study-[1-5].webp (including concept-herd-female-seamless.webp).

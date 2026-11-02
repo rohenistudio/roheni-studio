@@ -1,3 +1,4 @@
+<!-- Current upload guide: docs/NOVEMBER_UPDATE.md -->
 # ROHENI Studio
 
 A creative portfolio for ROHENI’s first collection and upcoming work. The paper edition pairs grey photo mounts and the original logo with a consistent three-font system: Fraunces, Plus Jakarta Sans and League Gothic.
@@ -9,7 +10,7 @@ A creative portfolio for ROHENI’s first collection and upcoming work. The pape
 - Paper-default homepage with campaign collage, childhood founder globe, mission, inspiration, development and milestones.
 - Dedicated Gikomba mission page and an interactive inspiration board with drag, keyboard, shuffle and reset controls.
 - Nine-second material motion study, native video controls and reduced-motion support.
-- Collections index and four project case studies.
+- Collections index and five project case studies.
 - Studio page introducing Rita and the brand’s purpose, plus a dedicated making-process page.
 - Collection II development journal with filterable digital concepts and design studies.
 - Contact page with email and Instagram links.
@@ -86,7 +87,7 @@ The current site does not contain a final downloadable Swarovski portfolio PDF. 
 
 ## Verification completed
 
-- Static check passes for 11 HTML entry files, four project records and local references.
+- Static check passes for 11 HTML entry files, five project records and local references.
 - JavaScript syntax checked with Node.
 - Homepage visually inspected in the desktop browser.
 - Navigation to Kaleidoscope verified.
@@ -98,3 +99,9 @@ Responsive rules are included for widths below 800px. A physical-device review a
 ## Ownership
 
 ROHENI’s branding, copy, photographs and designs remain subject to their owners’ rights. No open-source licence is granted for the creative assets. See `RIGHTS.md`. The new layout is an original implementation inspired by the editorial direction discussed; no code or assets have been copied from oyin.design.
+
+
+Latest revision: nine-slide About carousel, sourced expandable secondhand-clothing story, credited cultural portraits, larger homepage campaign imagery and individual transparent Collection II studies. Atir retains its original background. This ZIP still needs uploading to the existing GitHub repository to publish this revision.
+
+
+November 2026 update: AtIr is completed Collection 001 work and appears before Adwoa. Collection 002 includes a secondhand-material patchwork hoodie and a premium recycled T-shirt development direction. `impact.html` contains the current Gikomba story, a sourced 2021–2025 national import chart, exact table and CSV. `mission.html` remains a working alias. All 15 supplied content images are placed; the screenshot of the old display is a layout reference only. Read `docs/NOVEMBER_UPDATE.md` for the asset map, source notes and upload instructions.
