@@ -1,0 +1,9 @@
+1. Extract this ZIP using Extract All.
+2. Open your GitHub repository root.
+3. Add file > Upload files. Drag the extracted assets folder into the page.
+4. Commit changes.
+
+Do not double-click app.js: it is website code, not a Windows application.
+If needed, right-click app.js and choose Open with > Notepad.
+
+Includes updated app.js and premium.css, three 1080p looping videos and three preview images.
