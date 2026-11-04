@@ -205,3 +205,8 @@ html{overflow-x:clip}
 @media(max-width:800px){.studio-video-panel{padding:8px}.studio-video-grid{gap:6px}.studio-awakening{position:relative;height:330px;min-height:0}.studio-awakening .awakening-doodles{height:100%;inset:0}.studio-awakening blockquote{left:12%;bottom:95px;width:76%;font-size:27px;padding:15px 0;animation-name:awakening-journey-mobile}@keyframes awakening-journey-mobile{0%,100%{transform:translate(0,0) rotate(-2deg)}33%{transform:translate(-8%,-28px) rotate(2deg)}70%{transform:translate(8%,24px) rotate(-1deg)}}}
 @media(prefers-reduced-motion:reduce){.studio-awakening blockquote{animation:none}}
 
+
+/* Keep the moving quotation; remove nearby decorative doodles. */
+.awakening-doodles{display:none}
+body[data-page="about"] .event-film::before,body[data-page="about"] .event-film::after{content:none}
+
